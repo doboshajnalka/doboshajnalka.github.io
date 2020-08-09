@@ -1,2 +1,2 @@
-# doboshajnalka.gitub.io
+# doboshajnalka.github.io
 Demo page
